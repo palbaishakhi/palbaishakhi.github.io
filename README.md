@@ -1,3 +1,3 @@
-# palbaishakhi.io
+# My Personal Website
 
-My Personal Website
+https://palbaishakhi.github.io
